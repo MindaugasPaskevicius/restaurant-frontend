@@ -14,9 +14,8 @@ Project will run if both frontend and back end parts are started.
 * Project:
     - Is secured with authentication and users have roles
     - Can show all restaurants form database
-    - User add and delete applications to restaurant.
-    - Have admin page.
-    - Admin can add, delete, edit restaurants and applications from app.
+    - User add and delete dish to restaurant.
+    - Admin can add, delete, edit restaurants and dish from app.
 
 ### Launching Front_End part
 
