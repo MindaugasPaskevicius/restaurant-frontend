@@ -46,7 +46,7 @@ const Restaurant = () => {
       </Card>
       <div className="mt-4">
         <div className="d-flex justify-content-between">
-          <h3>Dish</h3>
+          <h3>Meniu</h3>
           {user?.role === 'admin' && (
             <Link to={`/restaurant/${restaurant.id}/dish/create`}>
               <Button>Add dish</Button>
