@@ -1,7 +1,7 @@
 # Restaurant aplication manager
 
 This is Front end part of the project.
-To see back end part of the project - https://github.com/MartynasGit/school_application_be
+To see back end part of the project - https://github.com/MindaugasPaskevicius/restaurant-frontend.git
 Project will run if both frontend and back end parts are started.
 
 ### About project
@@ -21,7 +21,7 @@ Project will run if both frontend and back end parts are started.
 ### Launching Front_End part
 
 - Clone repository frontend part.
-- https://github.com/MartynasGit/school_application_fe.git
+- https://github.com/MindaugasPaskevicius/restaurant-frontend.git
 - Change .env.example name to .env - app uses enviromental variable.
 - npm install - wait for everything to be ready.
 - npm start - to start project in a browser.
